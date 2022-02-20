@@ -21,9 +21,8 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 
 Below is the sample of some of the artciles i wrote.
 
-
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!-- links to social media icons -->
