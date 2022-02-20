@@ -22,6 +22,16 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the artciles i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Load Balancer ?](https://www.nitendratech.com/programming/load-balancer/?utm_source=rss&utm_medium=rss&utm_campaign=load-balancer)
+- [What are the types of Cluster Manager in Spark?](https://www.nitendratech.com/spark/cluster-managers-spark/?utm_source=rss&utm_medium=rss&utm_campaign=cluster-managers-spark)
+- [What is Data Modelling?](https://www.nitendratech.com/database/data-modelling/?utm_source=rss&utm_medium=rss&utm_campaign=data-modelling)
+- [Linux Interview Questions](https://www.nitendratech.com/interview/linux-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=linux-interview-questions)
+- [Core Java Interview Questions](https://www.nitendratech.com/interview/core-java-interview-question/?utm_source=rss&utm_medium=rss&utm_campaign=core-java-interview-question)
+- [SQL Interview Questions](https://www.nitendratech.com/interview/sql-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=sql-interview-questions)
+- [System Design Interview Questions](https://www.nitendratech.com/interview/system-design-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=system-design-interview-questions)
+- [How to Start a Career in Computer Science?](https://www.nitendratech.com/programming/career-computer-science/?utm_source=rss&utm_medium=rss&utm_campaign=career-computer-science)
+- [Apache Spark Interview Questions](https://www.nitendratech.com/interview/apache-spark-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=apache-spark-interview-questions)
+- [Database Interview Questions](https://www.nitendratech.com/interview/database-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=database-interview-questions)
 <!-- BLOG-POST-LIST:END -->
 
 
