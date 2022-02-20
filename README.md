@@ -1,4 +1,4 @@
-Hi Everyone !<img src="https://raw.githubusercontent.com/nitendragautam.github.io/nitendragautam.github.io/master/wave_gif.gif" width="30px">
+Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam.github.io/raw/master/wave_gif.gif" width="30px">
 
 My Name is Nitendra Gautam. I am working as a Software Developer specialization in Big Data Analytics stack in various Fortune 100 IT  Organizations. I am working and living in Dallas right now. 
 
@@ -31,7 +31,7 @@ Below is the sample of some of the artciles i wrote.
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://raw.githubusercontent.com/nitendragautam.github.io/nitendragautam.github.io/master/linkedin-3-16.png 
+[2.2]: https://raw.githubusercontent.com/nitendragautam/nitendragautam.github.io/master/linkedin-3-16.png 
 
 
 <!-- links to your social media accounts -->
