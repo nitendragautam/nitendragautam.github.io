@@ -14,5 +14,5 @@ jobs:
       - name: Pull in Recent blog Posts from nitendratech.com
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "10"
+          max_post_count: 10
           feed_list: "https://www.nitendratech.com/feed/"
