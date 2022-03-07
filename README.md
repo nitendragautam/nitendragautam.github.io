@@ -22,6 +22,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the artciles i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Ops Interview Questions](https://www.nitendratech.com/interview/dev-ops-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=dev-ops-interview-questions)
 - [Technical Interviews](https://www.nitendratech.com/interview/technical-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=technical-interviews)
 - [SQL Distinct Statement](https://www.nitendratech.com/database/sql-distinct/?utm_source=rss&utm_medium=rss&utm_campaign=sql-distinct)
 - [SQL WHERE clause](https://www.nitendratech.com/database/sql-where-clause/?utm_source=rss&utm_medium=rss&utm_campaign=sql-where-clause)
@@ -31,7 +32,6 @@ Below is the sample of some of the artciles i wrote.
 - [Linux Interview Questions](https://www.nitendratech.com/interview/linux-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=linux-interview-questions)
 - [Core Java Interview Questions](https://www.nitendratech.com/interview/core-java-interview-question/?utm_source=rss&utm_medium=rss&utm_campaign=core-java-interview-question)
 - [SQL Interview Questions](https://www.nitendratech.com/interview/sql-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=sql-interview-questions)
-- [System Design Interview Questions](https://www.nitendratech.com/interview/system-design-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=system-design-interview-questions)
 <!-- BLOG-POST-LIST:END -->
 
 
