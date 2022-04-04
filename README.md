@@ -22,6 +22,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the artciles i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Interview Questions](https://www.nitendratech.com/interview/kubernetes-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=kubernetes-interview-questions)
 - [SQL In Operator](https://www.nitendratech.com/database/sql-in-operator/?utm_source=rss&utm_medium=rss&utm_campaign=sql-in-operator)
 - [SQL Order By Clause](https://www.nitendratech.com/database/sql-order-by-clause/?utm_source=rss&utm_medium=rss&utm_campaign=sql-order-by-clause)
 - [Git Interview Questions](https://www.nitendratech.com/interview/git-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=git-interview-questions)
@@ -31,7 +32,6 @@ Below is the sample of some of the artciles i wrote.
 - [SQL Distinct Statement](https://www.nitendratech.com/database/sql-distinct/?utm_source=rss&utm_medium=rss&utm_campaign=sql-distinct)
 - [SQL WHERE clause](https://www.nitendratech.com/database/sql-where-clause/?utm_source=rss&utm_medium=rss&utm_campaign=sql-where-clause)
 - [What is Load Balancer ?](https://www.nitendratech.com/programming/load-balancer/?utm_source=rss&utm_medium=rss&utm_campaign=load-balancer)
-- [What are the types of Cluster Manager in Spark?](https://www.nitendratech.com/spark/cluster-managers-spark/?utm_source=rss&utm_medium=rss&utm_campaign=cluster-managers-spark)
 <!-- BLOG-POST-LIST:END -->
 
 
