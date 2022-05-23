@@ -22,6 +22,8 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the artciles i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Database Keys?](https://www.nitendratech.com/database/database-keys/?utm_source=rss&utm_medium=rss&utm_campaign=database-keys)
+- [Production Support Models in Software Companies](https://www.nitendratech.com/technology/production-application-support-models/?utm_source=rss&utm_medium=rss&utm_campaign=production-application-support-models)
 - [What do Egress and Ingress?](https://www.nitendratech.com/technology/egress-ingress-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=egress-ingress-cloud)
 - [Docker Interview Questions](https://www.nitendratech.com/interview/docker-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=docker-interview-questions)
 - [How to Manage Directories in Linux Platform?](https://www.nitendratech.com/linux/manage-directories-linux-platform/?utm_source=rss&utm_medium=rss&utm_campaign=manage-directories-linux-platform)
@@ -30,8 +32,6 @@ Below is the sample of some of the artciles i wrote.
 - [SQL Order By Clause](https://www.nitendratech.com/database/sql-order-by-clause/?utm_source=rss&utm_medium=rss&utm_campaign=sql-order-by-clause)
 - [Git Interview Questions](https://www.nitendratech.com/interview/git-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=git-interview-questions)
 - [Hive Query Language&lpar;HQL&rpar; Interview Questions](https://www.nitendratech.com/interview/hql-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=hql-interview-questions)
-- [Dev Ops Interview Questions](https://www.nitendratech.com/interview/dev-ops-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=dev-ops-interview-questions)
-- [Technical Interviews](https://www.nitendratech.com/interview/technical-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=technical-interviews)
 <!-- BLOG-POST-LIST:END -->
 
 
