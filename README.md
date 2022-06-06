@@ -22,6 +22,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the artciles i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Apache Maven ?](https://www.nitendratech.com/programming/apache-maven/?utm_source=rss&utm_medium=rss&utm_campaign=apache-maven)
 - [What is  Data Privacy?](https://www.nitendratech.com/datascience/data-privacy/?utm_source=rss&utm_medium=rss&utm_campaign=data-privacy)
 - [What is Data Engineering?](https://www.nitendratech.com/datascience/data-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=data-engineering)
 - [What are Database Keys?](https://www.nitendratech.com/database/database-keys/?utm_source=rss&utm_medium=rss&utm_campaign=database-keys)
@@ -31,7 +32,6 @@ Below is the sample of some of the artciles i wrote.
 - [How to Manage Directories in Linux Platform?](https://www.nitendratech.com/linux/manage-directories-linux-platform/?utm_source=rss&utm_medium=rss&utm_campaign=manage-directories-linux-platform)
 - [Kubernetes Interview Questions](https://www.nitendratech.com/interview/kubernetes-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=kubernetes-interview-questions)
 - [SQL In Operator](https://www.nitendratech.com/database/sql-in-operator/?utm_source=rss&utm_medium=rss&utm_campaign=sql-in-operator)
-- [SQL Order By Clause](https://www.nitendratech.com/database/sql-order-by-clause/?utm_source=rss&utm_medium=rss&utm_campaign=sql-order-by-clause)
 <!-- BLOG-POST-LIST:END -->
 
 
