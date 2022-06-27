@@ -1,6 +1,8 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam.github.io/raw/master/wave_gif.gif" width="30px">
 
-My Name is Nitendra Gautam. I am working as a Software Developer specialization in Big Data Analytics stack in various Fortune 100 IT  Organizations. I am working and living in Dallas right now. 
+My Name is Nitendra Gautam. I am working as a Software Developer right now and located in Dallas, Texas.
+
+I have been working in Big Data Analytics and Data Engineering stack in various Fortune 100 IT  Organizations since 2012 AD.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
@@ -8,18 +10,20 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 * Big Data Analytics
 * Software Development
 * Data Engineering
+* Distributed Computing
 
 
 
 ## &#x270d; Blogs & Writing
 
-Apart from my professional work, i write blogs on different topics. 
+I write blogs/articles on different topics on my website beside from my professional work, 
+
 You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 
 
 ### Recent Blog posts
 
-Below is the sample of some of the artciles i wrote.
+Below is the sample of some of the blog post and article i wrote.
 
 <!-- BLOG-POST-LIST:START -->
 - [What is ETL Testing and its Importance?](https://www.nitendratech.com/database/etl-testing/?utm_source=rss&utm_medium=rss&utm_campaign=etl-testing)
