@@ -26,6 +26,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and article i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Hadoop Task Tracker?](https://www.nitendratech.com/hadoop/what-is-hadoop-task-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hadoop-task-tracker)
 - [What is ETL Testing and its Importance?](https://www.nitendratech.com/database/etl-testing/?utm_source=rss&utm_medium=rss&utm_campaign=etl-testing)
 - [What is Metadata and why it’s important?](https://www.nitendratech.com/database/metadata-data-applications/?utm_source=rss&utm_medium=rss&utm_campaign=metadata-data-applications)
 - [How to Start a Career in Computer Science and get Jobs for Computer Science Majors?](https://www.nitendratech.com/programming/career-computer-science/?utm_source=rss&utm_medium=rss&utm_campaign=career-computer-science)
@@ -35,7 +36,6 @@ Below is the sample of some of the blog post and article i wrote.
 - [What are Database Keys?](https://www.nitendratech.com/database/database-keys/?utm_source=rss&utm_medium=rss&utm_campaign=database-keys)
 - [Production Support Models in Software Companies](https://www.nitendratech.com/technology/production-application-support-models/?utm_source=rss&utm_medium=rss&utm_campaign=production-application-support-models)
 - [What do Egress and Ingress Mean?](https://www.nitendratech.com/technology/egress-ingress-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=egress-ingress-cloud)
-- [Docker Interview Questions](https://www.nitendratech.com/interview/docker-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=docker-interview-questions)
 <!-- BLOG-POST-LIST:END -->
 
 
