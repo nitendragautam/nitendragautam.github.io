@@ -26,6 +26,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and article i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Distributed Database?](https://www.nitendratech.com/database/what-is-a-distributed-database/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-a-distributed-database)
 - [What is Disruptive Technology?](https://www.nitendratech.com/technology/disruptive-technology/?utm_source=rss&utm_medium=rss&utm_campaign=disruptive-technology)
 - [What are User Defined Functions&lpar;UDF&rpar; in Apache Hive?](https://www.nitendratech.com/hive/user-defined-functions-udf-hive/?utm_source=rss&utm_medium=rss&utm_campaign=user-defined-functions-udf-hive)
 - [What is Hadoop Task Tracker?](https://www.nitendratech.com/hadoop/what-is-hadoop-task-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hadoop-task-tracker)
@@ -35,7 +36,6 @@ Below is the sample of some of the blog post and article i wrote.
 - [What is Apache Maven ?](https://www.nitendratech.com/programming/apache-maven/?utm_source=rss&utm_medium=rss&utm_campaign=apache-maven)
 - [What is Data Privacy, and Why is it important?](https://www.nitendratech.com/datascience/data-privacy/?utm_source=rss&utm_medium=rss&utm_campaign=data-privacy)
 - [What is Data Engineering and Why It is Important? A Guide for a career in Data Engineering](https://www.nitendratech.com/datascience/data-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=data-engineering)
-- [What are Database Keys?](https://www.nitendratech.com/database/database-table-keys/?utm_source=rss&utm_medium=rss&utm_campaign=database-table-keys)
 <!-- BLOG-POST-LIST:END -->
 
 
