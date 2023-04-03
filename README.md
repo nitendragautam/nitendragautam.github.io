@@ -28,6 +28,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and article i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL CREATE Table Statement](https://www.nitendratech.com/database/sql-create-table-statement/?utm_source=rss&utm_medium=rss&utm_campaign=sql-create-table-statement)
 - [Data Engineering Interview Questions](https://www.nitendratech.com/interview/data-engineering-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=data-engineering-interview-questions)
 - [Programming Languages](https://www.nitendratech.com/programming/programming-langauge/?utm_source=rss&utm_medium=rss&utm_campaign=programming-langauge)
 - [What are SQL Transactions?](https://www.nitendratech.com/database/sql-transactions/?utm_source=rss&utm_medium=rss&utm_campaign=sql-transactions)
@@ -37,7 +38,6 @@ Below is the sample of some of the blog post and article i wrote.
 - [What is Hadoop Task Tracker?](https://www.nitendratech.com/hadoop/what-is-hadoop-task-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hadoop-task-tracker)
 - [What is ETL Testing and its Importance?](https://www.nitendratech.com/database/etl-testing/?utm_source=rss&utm_medium=rss&utm_campaign=etl-testing)
 - [What is Metadata and why it’s important?](https://www.nitendratech.com/database/metadata-data-applications/?utm_source=rss&utm_medium=rss&utm_campaign=metadata-data-applications)
-- [How to Start a Career in Computer Science and get Jobs for Computer Science Majors?](https://www.nitendratech.com/programming/career-computer-science/?utm_source=rss&utm_medium=rss&utm_campaign=career-computer-science)
 <!-- BLOG-POST-LIST:END -->
 
 
