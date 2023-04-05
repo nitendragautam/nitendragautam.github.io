@@ -1,8 +1,11 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam.github.io/raw/master/wave_gif.gif" width="30px">
 
-My Name is Nitendra Gautam. I am working as a Software Developer right now and located in Dallas, Texas.
+[Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
 
-I have been working in Big Data Analytics and Data Engineering stack in various Fortune 100 IT  Organizations since 2012 AD.
+
+I am a technology enthusiast and blogger who writes about various topics related to software engineering, machine learning, cloud computing, and information technology, including cloud computing, big data, machine learning, and DevOps.
+
+I  maintain a blog called NitendraTech where I  shares my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and holds a Graduate Certificate in Statistics from NDSU.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
