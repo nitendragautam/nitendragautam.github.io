@@ -1,6 +1,6 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam.github.io/raw/master/wave_gif.gif" width="30px">
 
-[Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
 
 
 I am a technology enthusiast and blogger who writes about various topics related to software engineering, machine learning, cloud computing, and information technology, including cloud computing, big data, machine learning, and DevOps.
