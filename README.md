@@ -31,6 +31,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and article i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Modern Data Stack: Empowering Data-Driven Organizations](https://www.nitendratech.com/bigdata/modern-data-stack-data-driven-organizations/)
 - [Parallelism in Apache Spark](https://www.nitendratech.com/spark/parallelism-apache-spark/)
 - [What is  Kubernetes?](https://www.nitendratech.com/technology/learnkubernetes/)
 - [What is a Data Platform?](https://www.nitendratech.com/bigdata/data-platform/)
@@ -40,7 +41,6 @@ Below is the sample of some of the blog post and article i wrote.
 - [Programming Languages](https://www.nitendratech.com/programming/programming-langauge/)
 - [What are SQL Transactions?](https://www.nitendratech.com/database/sql-transactions/)
 - [What is a Distributed Database?](https://www.nitendratech.com/database/what-is-a-distributed-database/)
-- [What is Disruptive Technology?](https://www.nitendratech.com/technology/disruptive-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 
