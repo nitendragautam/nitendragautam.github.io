@@ -31,6 +31,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and article i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Power of Serverless Architecture: Advantages and Benefits](https://www.nitendratech.com/technology/serverless-architecture/)
 - [The Modern Data Stack: Empowering Data-Driven Organizations](https://www.nitendratech.com/bigdata/modern-data-stack-data-driven-organizations/)
 - [Parallelism in Apache Spark](https://www.nitendratech.com/spark/parallelism-apache-spark/)
 - [What is  Kubernetes?](https://www.nitendratech.com/technology/learnkubernetes/)
@@ -40,7 +41,6 @@ Below is the sample of some of the blog post and article i wrote.
 - [Data Engineering Interview Questions](https://www.nitendratech.com/interview/data-engineering-interview-questions/)
 - [Programming Languages](https://www.nitendratech.com/programming/programming-langauge/)
 - [What are SQL Transactions?](https://www.nitendratech.com/database/sql-transactions/)
-- [What is a Distributed Database?](https://www.nitendratech.com/database/what-is-a-distributed-database/)
 <!-- BLOG-POST-LIST:END -->
 
 
