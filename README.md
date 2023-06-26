@@ -38,7 +38,7 @@ Below is the sample of some of the blog post and article i wrote.
 - [What is a Data Platform?](https://www.nitendratech.com/bigdata/data-platform/)
 - [What is Data Analysis ?](https://www.nitendratech.com/datascience/data-analysis/)
 - [SQL CREATE Table Statement](https://www.nitendratech.com/database/sql-create-table-statement/)
-- [Data Engineering Interview Questions](https://www.nitendratech.com/interview/data-engineering-interview-questions/)
+- [Most Important Data Engineering Interview Questions](https://www.nitendratech.com/interview/data-engineering-interview-questions/)
 - [Programming Languages](https://www.nitendratech.com/programming/programming-langauge/)
 - [What are SQL Transactions?](https://www.nitendratech.com/database/sql-transactions/)
 <!-- BLOG-POST-LIST:END -->
