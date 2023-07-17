@@ -35,7 +35,7 @@ Below is the sample of some of the blog post and article i wrote.
 - [SQL LIKE Operator](https://www.nitendratech.com/database/sql-like/)
 - [Exploring the Power of Serverless Architecture: Advantages and Benefits](https://www.nitendratech.com/technology/serverless-architecture/)
 - [The Modern Data Stack: Empowering Data-Driven Organizations](https://www.nitendratech.com/bigdata/modern-data-stack-data-driven-organizations/)
-- [Parallelism in Apache Spark](https://www.nitendratech.com/spark/parallelism-apache-spark/)
+- [What is Parallelism in Apache Spark?](https://www.nitendratech.com/spark/parallelism-apache-spark/)
 - [What is  Kubernetes?](https://www.nitendratech.com/technology/learnkubernetes/)
 - [What is a Data Platform?](https://www.nitendratech.com/bigdata/data-platform/)
 - [What is Data Analysis ?](https://www.nitendratech.com/datascience/data-analysis/)
