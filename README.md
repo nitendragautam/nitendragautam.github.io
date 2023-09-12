@@ -1,11 +1,13 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam.github.io/raw/master/wave_gif.gif" width="30px">
 
+I keep all my code repos and projects over here in Git Hub.
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
 
 
 I am a technology enthusiast and blogger who writes about various topics related to software engineering, machine learning, cloud computing, and information technology, including cloud computing, big data, machine learning, and DevOps.
 
-I  maintain a blog called NitendraTech where I  shares my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and holds a Graduate Certificate in Statistics from NDSU.
+I  maintain a blog called NitendraTech where I  share my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and hold a Graduate Certificate in Statistics from NDSU.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
@@ -21,14 +23,14 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
 ## &#x270d; Blogs & Writing
 
-I write blogs/articles on different topics on my website beside from my professional work, 
+I write blogs/articles on different topics on my website besides my professional work, 
 
-You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
+You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 
 
 ### Recent Blog posts
 
-Below is the sample of some of the blog post and article i wrote.
+Below is a sample of some of the blog posts and articles i wrote.
 
 <!-- BLOG-POST-LIST:START -->
 - [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
