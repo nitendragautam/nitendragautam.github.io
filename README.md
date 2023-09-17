@@ -18,19 +18,20 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
 * Distributed Computing
 * Data Lake Design and Architecture
 * Cloud Migration
+* Cloud Computing 
 
 
 
 ## &#x270d; Blogs & Writing
 
-I write blogs/articles on different topics on my website besides my professional work, 
+I write blogs/articles on different topics on my website besides my professional work. 
 
 You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 
 
 ### Recent Blog posts
 
-Below is a sample of some of the blog posts and articles i wrote.
+You will find my latest blog posts and artciles below.
 
 <!-- BLOG-POST-LIST:START -->
 - [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
