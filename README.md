@@ -51,6 +51,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 You will find my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Amazon  EMR Interview questions](https://www.nitendratech.com/interview/amazon-emr/)
 - [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
 - [SQL INSERT INTO STATEMENT](https://www.nitendratech.com/database/sql-insert-into/)
 - [SQL LIKE Operator](https://www.nitendratech.com/database/sql-like/)
@@ -60,7 +61,6 @@ You will find my latest blog posts and articles below.
 - [What is  Kubernetes?](https://www.nitendratech.com/technology/learnkubernetes/)
 - [What is a Data Platform?](https://www.nitendratech.com/bigdata/data-platform/)
 - [What is Data Analysis ?](https://www.nitendratech.com/datascience/data-analysis/)
-- [SQL CREATE Table Statement](https://www.nitendratech.com/database/sql-create-table-statement/)
 <!-- BLOG-POST-LIST:END -->
 
 
