@@ -1,11 +1,11 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main/wave_gif.gif" width="30px">
 
-I keep all my code repos and projects over here in github.
+I keep all my code repos and projects over here in Git Hub.
 
 
 &nbsp;**Connect with me**
 
-You can find me using any of the below links.
+You can find me and connect with me using any of the below links.
 
  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
@@ -13,9 +13,9 @@ You can find me using any of the below links.
 <b>&nbsp;&nbsp;About&nbsp;Me</b>
   <br/>
 
- I am a technology enthusiast and blogger who writes about various topics related to software engineering, machine learning, cloud computing, and information technology, including cloud computing, big data, machine learning, and DevOps.
+ I am a technology enthusiast and blogger who writes about various software engineering, machine learning, cloud computing, and information technology topics, including cloud computing, big data, machine learning, and DevOps.
 
- I  maintain a blog called NitendraTech where I  share my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and hold a Graduate Certificate in Statistics from NDSU.
+ I  maintain a blog called NitendraTech where I  share my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and I hold a Graduate Certificate in Statistics from NDSU.
 
 
 ## Interest
@@ -48,7 +48,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 
 ### Recent Blog posts
 
-You will find my latest blog posts and articles below.
+I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
 - [Essential Amazon  EMR Interview questions](https://www.nitendratech.com/interview/amazon-emr/)
