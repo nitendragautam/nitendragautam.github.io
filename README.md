@@ -51,16 +51,16 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting Apache Spark Application](https://www.nitendratech.com/spark/starting-apache-spark-application/)
+- [Data Warehouse Interview Questions](https://www.nitendratech.com/interview/data-warehouse-interview/)
+- [Important AWS Glue Interview Questions](https://www.nitendratech.com/interview/aws-glue-interview/)
+- [Bash Scripts Interview Questions](https://www.nitendratech.com/interview/bash-scripts-linux-interview/)
 - [Essential Amazon  EMR Interview questions](https://www.nitendratech.com/interview/amazon-emr/)
 - [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
 - [SQL INSERT INTO STATEMENT](https://www.nitendratech.com/database/sql-insert-into/)
 - [SQL LIKE Operator](https://www.nitendratech.com/database/sql-like/)
 - [Exploring the Power of Serverless Architecture: Advantages and Benefits](https://www.nitendratech.com/technology/serverless-architecture/)
 - [The Modern Data Stack: Empowering Data-Driven Organizations](https://www.nitendratech.com/bigdata/modern-data-stack-data-driven-organizations/)
-- [What is Parallelism in Apache Spark?](https://www.nitendratech.com/spark/parallelism-apache-spark/)
-- [What is  Kubernetes?](https://www.nitendratech.com/technology/learnkubernetes/)
-- [What is a Data Platform?](https://www.nitendratech.com/bigdata/data-platform/)
-- [What is Data Analysis ?](https://www.nitendratech.com/datascience/data-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 
