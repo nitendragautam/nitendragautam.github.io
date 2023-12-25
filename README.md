@@ -51,6 +51,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-security/)
 - [What is a Flat File ? And Why is It Important?](https://www.nitendratech.com/bigdata/flat-file/)
 - [What is Job Tracker in Hadoop?](https://www.nitendratech.com/hadoop/job-tracker-hadoop/)
 - [Starting Apache Spark Application](https://www.nitendratech.com/spark/starting-apache-spark-application/)
@@ -60,7 +61,6 @@ I've included my latest blog posts and articles below.
 - [Essential Amazon  EMR Interview questions](https://www.nitendratech.com/interview/amazon-emr/)
 - [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
 - [SQL INSERT INTO STATEMENT](https://www.nitendratech.com/database/sql-insert-into/)
-- [SQL LIKE Operator](https://www.nitendratech.com/database/sql-like/)
 <!-- BLOG-POST-LIST:END -->
 
 
