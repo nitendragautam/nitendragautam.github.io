@@ -51,6 +51,9 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Data Pipeline?](https://www.nitendratech.com/datascience/data-pipeline/)
+- [SQL GROUP By Vs HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
+- [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor-sql-database/)
 - [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-security/)
 - [What is a Flat File ? And Why is It Important?](https://www.nitendratech.com/bigdata/flat-file/)
 - [What is Job Tracker in Hadoop?](https://www.nitendratech.com/hadoop/job-tracker-hadoop/)
@@ -58,9 +61,6 @@ I've included my latest blog posts and articles below.
 - [Data Warehouse Interview Questions](https://www.nitendratech.com/interview/data-warehouse-interview/)
 - [Important AWS Glue Interview Questions](https://www.nitendratech.com/interview/aws-glue-interview/)
 - [Bash Scripts Interview Questions](https://www.nitendratech.com/interview/bash-scripts-linux-interview/)
-- [Essential Amazon  EMR Interview questions](https://www.nitendratech.com/interview/amazon-emr/)
-- [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
-- [SQL INSERT INTO STATEMENT](https://www.nitendratech.com/database/sql-insert-into/)
 <!-- BLOG-POST-LIST:END -->
 
 
