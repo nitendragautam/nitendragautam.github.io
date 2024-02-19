@@ -51,16 +51,16 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Data Pipeline?](https://www.nitendratech.com/datascience/data-pipeline/)
+- [Efficient Interconnection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
+- [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/enkins-software/)
+- [What do you understand by Data Pipeline in Data Engineering World?](https://www.nitendratech.com/datascience/data-pipeline/)
 - [SQL GROUP By Vs HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
 - [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor-sql-database/)
 - [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-security/)
 - [What is a Flat File ? And Why is It Important?](https://www.nitendratech.com/bigdata/flat-file/)
 - [What is Job Tracker in Hadoop?](https://www.nitendratech.com/hadoop/job-tracker-hadoop/)
 - [Starting Apache Spark Application](https://www.nitendratech.com/spark/starting-apache-spark-application/)
-- [Data Warehouse Interview Questions](https://www.nitendratech.com/interview/data-warehouse-interview/)
-- [Important AWS Glue Interview Questions](https://www.nitendratech.com/interview/aws-glue-interview/)
-- [Bash Scripts Interview Questions](https://www.nitendratech.com/interview/bash-scripts-linux-interview/)
+- [Important Data Warehouse Interview Questions](https://www.nitendratech.com/interview/data-warehouse-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 
