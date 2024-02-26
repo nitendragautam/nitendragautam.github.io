@@ -51,14 +51,14 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Interconnection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
-- [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/enkins-software/)
-- [What do you understand by Data Pipeline in Data Engineering World?](https://www.nitendratech.com/datascience/data-pipeline/)
-- [SQL GROUP By Vs HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
-- [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor-sql-database/)
-- [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-security/)
+- [Connection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
+- [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/jenkins-software/)
+- [What do you understand by Data Pipeline in Data Engineering?](https://www.nitendratech.com/datascience/data-pipeline/)
+- [Difference between SQL GROUP By and HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
+- [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor/)
+- [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-2/)
 - [What is a Flat File ? And Why is It Important?](https://www.nitendratech.com/bigdata/flat-file/)
-- [What is Job Tracker in Hadoop?](https://www.nitendratech.com/hadoop/job-tracker-hadoop/)
+- [What is Job Tracker in Apache Hadoop?](https://www.nitendratech.com/hadoop/job-tracker-hadoop/)
 - [Starting Apache Spark Application](https://www.nitendratech.com/spark/starting-apache-spark-application/)
 - [Important Data Warehouse Interview Questions](https://www.nitendratech.com/interview/data-warehouse-interview/)
 <!-- BLOG-POST-LIST:END -->
