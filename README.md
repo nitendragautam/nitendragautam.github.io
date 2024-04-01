@@ -51,6 +51,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Cache? And How Does it Work?](https://www.nitendratech.com/programming/cache/)
 - [Connection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
 - [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/jenkins-software/)
 - [What do you understand by Data Pipeline in Data Engineering?](https://www.nitendratech.com/datascience/data-pipeline/)
@@ -60,7 +61,6 @@ I've included my latest blog posts and articles below.
 - [What is a Flat File ? And Why is It Important?](https://www.nitendratech.com/bigdata/flat-file/)
 - [What is Job Tracker in Apache Hadoop?](https://www.nitendratech.com/hadoop/job-tracker-hadoop/)
 - [Starting Apache Spark Application](https://www.nitendratech.com/spark/starting-apache-spark-application/)
-- [Important Data Warehouse Interview Questions](https://www.nitendratech.com/interview/data-warehouse-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 
