@@ -13,21 +13,29 @@ You can find me and connect with me using any of the below links.
 <b>&nbsp;&nbsp;About&nbsp;Me</b>
   <br/>
 
- I am a technology enthusiast and blogger who writes about various software engineering, machine learning, cloud computing, and information technology topics, including cloud computing, big data, machine learning, and DevOps.
 
- I  maintain a blog called NitendraTech where I  share my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and I hold a Graduate Certificate in Statistics from NDSU.
+With Over a decade of experience in the dynamic field of software engineering, Nitendra Gautam have established a deep passion and expertise in cutting-edge techological domains. Through the professional journet, Nitendra Gautam have consistanly demonstrated an exceptional ability to adapt to new challanges and leverage emerging technologies.
+
+As Master degree holder in Computer Science specializing in Big Data analytics and  a Graduate degree in Statistics from NDSU, Nitendra Gautam employs advanced analytical techiniqes to uncover insights from data and drives stragetic decison-making.
 
 
 ## Interest
+
 * Big Data Analytics
-* Software Development
+* Software Enginering
 * Data Engineering
 * Distributed Computing
 * Data Lake Design and Architecture
-* Cloud Migration
-* Cloud Computing 
+* Cloud Migration/Computing/Architecture
+* Machine Learning
 
 
+## Academic Published Papers
+
+[Analyzing Access Logs Data using Stream Based Architecture,2018](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bzU5DqcAAAAJ&citation_for_view=bzU5DqcAAAAJ:u5HHmVD_uO8C)
+
+
+[Investigating Sensitivity of Multi Response Optimization MethodsInvestigating Sensitivity of Multi Response Optimization Methods,Industrial Engineering and Engineering Management(IEEM) · Dec 10, 2010] (http://www.ieem2020.org/docs/prog_books/IEEM2012%20Program%20Book.pdf)
 
 
 <details>
