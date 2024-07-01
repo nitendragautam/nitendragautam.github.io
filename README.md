@@ -60,6 +60,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Data Migration?](https://www.nitendratech.com/technology/data-migration/)
 - [What is Large Language Models&lpar;LLM&rpar;?](https://www.nitendratech.com/technology/what-is-large-language-modelsllm/)
 - [Aggregate and Scalar Functions in Database](https://www.nitendratech.com/database/aggregate-scalar-functions-database/)
 - [What is Cache? And How Does it Work?](https://www.nitendratech.com/programming/cache/)
@@ -69,7 +70,6 @@ I've included my latest blog posts and articles below.
 - [Difference between SQL GROUP By and HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
 - [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor/)
 - [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-2/)
-- [What is a Flat File ? And Why is It Important?](https://www.nitendratech.com/bigdata/flat-file/)
 <!-- BLOG-POST-LIST:END -->
 
 
