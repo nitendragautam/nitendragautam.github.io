@@ -60,6 +60,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding difference between Stateless and Stateful  Systems](https://www.nitendratech.com/technology/stateless-stateful-systems/)
 - [What is Data Migration?](https://www.nitendratech.com/technology/data-migration/)
 - [What is Large Language Models&lpar;LLM&rpar;?](https://www.nitendratech.com/technology/what-is-large-language-modelsllm/)
 - [Aggregate and Scalar Functions in Database](https://www.nitendratech.com/database/aggregate-scalar-functions-database/)
@@ -69,7 +70,6 @@ I've included my latest blog posts and articles below.
 - [What do you understand by Data Pipeline in Data Engineering?](https://www.nitendratech.com/datascience/data-pipeline/)
 - [Difference between SQL GROUP By and HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
 - [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor/)
-- [Safeguarding Data Privacy: The Vital Role of Computer Security](https://www.nitendratech.com/datascience/data-privacy-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
