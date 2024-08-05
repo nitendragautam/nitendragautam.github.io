@@ -60,6 +60,8 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineering User Guide](https://www.nitendratech.com/datascience/data-engineering-user-guide/)
+- [Data Observability and Its Importance in Modern Data Tech Stack](https://www.nitendratech.com/bigdata/data-observability-modern-data-tech-stack/)
 - [Understanding difference between Stateless and Stateful  Systems](https://www.nitendratech.com/technology/stateless-stateful-systems/)
 - [What is Data Migration?](https://www.nitendratech.com/technology/data-migration/)
 - [What is Large Language Models&lpar;LLM&rpar;?](https://www.nitendratech.com/technology/what-is-large-language-modelsllm/)
@@ -68,8 +70,6 @@ I've included my latest blog posts and articles below.
 - [Connection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
 - [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/jenkins-software/)
 - [What do you understand by Data Pipeline in Data Engineering?](https://www.nitendratech.com/datascience/data-pipeline/)
-- [Difference between SQL GROUP By and HAVING Clause](https://www.nitendratech.com/database/sql-group-by-having/)
-- [What is the Fill factor in SQL Server?](https://www.nitendratech.com/database/fill-factor/)
 <!-- BLOG-POST-LIST:END -->
 
 
