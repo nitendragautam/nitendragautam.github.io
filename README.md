@@ -2,7 +2,6 @@ Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main
 
 I keep all my code repos and projects over here in Git Hub.
 
-
 &nbsp;**Connect with me**
 
 You can find me and connect with me using any of the below links.
@@ -17,7 +16,6 @@ You can find me and connect with me using any of the below links.
 With Over a decade of experience in the dynamic field of software engineering, Nitendra Gautam have established a deep passion and expertise in cutting-edge techological domains. Through the professional journet, Nitendra Gautam have consistanly demonstrated an exceptional ability to adapt to new challanges and leverage emerging technologies.
 
 As Master degree holder in Computer Science specializing in Big Data analytics and  a Graduate degree in Statistics from NDSU, Nitendra Gautam employs advanced analytical techiniqes to uncover insights from data and drives stragetic decison-making.
-
 
 ## Interest
 
