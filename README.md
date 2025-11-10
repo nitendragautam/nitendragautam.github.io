@@ -58,6 +58,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Profiling: Foundation for Reliable Data Engineering and Analytics](https://www.nitendratech.com/datascience/learn-data-profiling/)
 - [Data Engineering User Guide](https://www.nitendratech.com/datascience/data-engineering-user-guide/)
 - [Data Observability and Its Importance in Modern Data Tech Stack](https://www.nitendratech.com/bigdata/data-observability-modern-data-tech-stack/)
 - [Understanding difference between Stateless and Stateful  Systems](https://www.nitendratech.com/technology/stateless-stateful-systems/)
@@ -67,7 +68,6 @@ I've included my latest blog posts and articles below.
 - [What is Cache? And How Does it Work?](https://www.nitendratech.com/programming/cache/)
 - [Connection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
 - [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/jenkins-software/)
-- [What do you understand by Data Pipeline in Data Engineering?](https://www.nitendratech.com/datascience/data-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 
