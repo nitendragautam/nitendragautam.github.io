@@ -58,6 +58,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 I've included my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Future: How Artificial Intelligence is Revolutionizing Our World ?](https://www.nitendratech.com/datascience/artificial-intelligence/)
 - [Data Profiling: Foundation for Reliable Data Engineering and Analytics](https://www.nitendratech.com/datascience/learn-data-profiling/)
 - [Data Engineering User Guide](https://www.nitendratech.com/datascience/data-engineering-user-guide/)
 - [Data Observability and Its Importance in Modern Data Tech Stack](https://www.nitendratech.com/bigdata/data-observability-modern-data-tech-stack/)
@@ -67,7 +68,6 @@ I've included my latest blog posts and articles below.
 - [Aggregate and Scalar Functions in Database](https://www.nitendratech.com/database/aggregate-scalar-functions-database/)
 - [What is Cache? And How Does it Work?](https://www.nitendratech.com/programming/cache/)
 - [Connection between Technology and Precision Agriculture](https://www.nitendratech.com/technology/technology-precision-agriculture/)
-- [Essence and Application of Jenkins Software](https://www.nitendratech.com/technology/jenkins-software/)
 <!-- BLOG-POST-LIST:END -->
 
 
