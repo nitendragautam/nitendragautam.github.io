@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog — Nitendra Gautam</title>
+  <meta name="description" content="Blog of Nitendra Gautam: notes on data engineering, AI/ML platforms, and engineering leadership." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="nav">
+    <a class="nav-brand" href="index.html">NG</a>
+    <div class="nav-links">
+      <a href="index.html#timeline">Career</a>
+      <a href="index.html#skills">Skills</a>
+      <a href="index.html#education">Education</a>
+      <a href="index.html#contact">Contact</a>
+    </div>
+  </nav>
+
+  <header class="page-hero">
+    <p class="hero-eyebrow">Blog</p>
+    <h1>Notes from the data platform world</h1>
+    <p class="section-sub" style="margin-bottom:0">Data engineering, AI/ML infrastructure, and engineering leadership.</p>
+  </header>
+
+  <main class="section" style="padding-top: 24px;">
+    <div class="blog-list" id="blog-list"></div>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Nitendra Gautam · Built with plain HTML, CSS &amp; JavaScript</p>
+  </footer>
+
+  <script src="posts.js"></script>
+  <script src="blog.js"></script>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    renderBlogList("blog-list");
+  </script>
+</body>
+</html>
